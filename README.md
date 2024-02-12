@@ -33,3 +33,9 @@
 
 - Biblioteca para componente toast
 - Instalação: `npm i sonner`
+
+## 🎤 [Speech Recognition](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API#speech_recognition)
+
+- Biblioteca nativa do navegador para converter áudio em texto
+  - Verifique quais navegeadores oferecem suporte: https://caniuse.com/?search=speechrecognition
+- Instalação para reconhecimento da tipagem em `window`: `npm i -D @types/dom-speech-recognition`
