@@ -19,3 +19,17 @@
 - Thin First API;
 - Padronização css;
 - Instalação (com base no vite): https://tailwindcss.com/docs/guides/vite
+
+## 📚 [Radix](https://www.radix-ui.com/)
+
+- Biblioteca de componentes comuns no uso web
+- Trás apenas funcionamento dos componentes (sem estilo)
+- Usado o [dialog](https://www.radix-ui.com/primitives/docs/components/dialog) nos modais dessa aplicação
+  - Instalação: `npm install @radix-ui/react-dialog`
+  - Trablhar com datas: `npm i date-fns`
+  - Trabalhar com fontes: `npm i lucide-react`
+
+## 🍞 [Sonner](https://sonner.emilkowal.ski/)
+
+- Biblioteca para componente toast
+- Instalação: `npm i sonner`
